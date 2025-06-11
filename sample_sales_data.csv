@@ -1,0 +1,101 @@
+Order Date,Region,Category,Sales,Profit,Quantity,Segment
+2022-04-13,Central,Furniture,138.45,18.85,1,Consumer
+2023-03-12,East,Office Supplies,902.35,20.83,3,Corporate
+2022-09-28,Central,Technology,905.4,248.55,4,Home Office
+2022-04-17,Central,Office Supplies,651.45,114.46,2,Home Office
+2022-03-13,Central,Furniture,372.08,46.85,1,Consumer
+2023-12-02,South,Technology,381.75,161.45,7,Consumer
+2022-01-21,South,Technology,739.66,233.3,8,Corporate
+2023-09-07,South,Technology,902.25,72.59,7,Corporate
+2022-05-02,East,Office Supplies,892.73,190.64,5,Home Office
+2023-04-12,Central,Furniture,790.88,34.75,1,Home Office
+2022-08-03,South,Technology,659.93,24.99,7,Consumer
+2022-11-27,South,Technology,129.93,164.09,7,Home Office
+2023-04-04,East,Technology,203.55,166.78,9,Corporate
+2022-03-29,South,Office Supplies,903.63,194.85,3,Corporate
+2023-01-08,East,Office Supplies,626.11,220.57,9,Consumer
+2022-04-10,West,Furniture,58.74,293.0,1,Corporate
+2023-10-26,South,Office Supplies,146.4,159.73,1,Corporate
+2022-05-11,West,Technology,680.33,103.66,4,Corporate
+2023-10-24,East,Furniture,54.81,240.6,9,Corporate
+2022-11-05,Central,Technology,202.77,88.54,6,Consumer
+2022-12-10,South,Technology,571.3,137.3,3,Consumer
+2023-05-07,East,Office Supplies,707.3,32.75,1,Home Office
+2023-02-18,Central,Furniture,669.36,17.35,4,Corporate
+2023-01-21,Central,Office Supplies,263.06,289.17,9,Home Office
+2022-07-11,West,Office Supplies,726.57,252.43,3,Consumer
+2022-10-04,East,Furniture,275.39,211.83,9,Consumer
+2022-06-10,Central,Technology,359.13,128.6,7,Consumer
+2023-04-05,South,Technology,759.17,60.26,4,Consumer
+2022-11-10,South,Furniture,667.15,55.37,3,Consumer
+2022-01-22,West,Technology,856.76,82.57,5,Consumer
+2022-09-10,Central,Furniture,674.73,169.28,5,Consumer
+2023-07-15,East,Furniture,589.89,217.23,3,Corporate
+2023-04-20,South,Office Supplies,138.99,201.46,9,Home Office
+2022-02-28,Central,Furniture,399.33,91.18,4,Consumer
+2023-05-26,Central,Office Supplies,301.94,286.91,5,Corporate
+2023-11-13,West,Technology,281.79,223.99,4,Corporate
+2023-04-21,South,Technology,974.36,170.76,5,Home Office
+2023-12-01,South,Technology,423.44,187.4,7,Consumer
+2022-07-09,East,Technology,897.44,131.68,9,Home Office
+2023-11-18,South,Office Supplies,649.58,81.84,7,Consumer
+2023-07-17,East,Technology,805.07,113.23,5,Corporate
+2023-07-21,South,Furniture,527.51,229.78,7,Corporate
+2022-09-01,West,Furniture,598.06,14.17,5,Corporate
+2023-05-20,South,Furniture,517.89,43.66,3,Corporate
+2022-05-11,East,Office Supplies,235.48,23.34,7,Home Office
+2023-04-30,East,Technology,736.33,21.81,2,Consumer
+2023-10-09,West,Technology,316.73,258.08,9,Consumer
+2022-01-21,South,Technology,73.1,214.06,1,Home Office
+2022-06-16,South,Office Supplies,663.2,147.51,6,Consumer
+2022-10-01,West,Furniture,218.26,38.37,7,Corporate
+2023-01-23,South,Furniture,943.44,152.57,8,Consumer
+2023-08-24,South,Technology,956.23,147.31,9,Corporate
+2022-11-12,East,Furniture,919.12,60.23,2,Home Office
+2022-01-14,South,Furniture,401.65,135.82,2,Consumer
+2022-08-30,South,Office Supplies,64.68,125.57,5,Home Office
+2022-12-12,West,Office Supplies,931.9,188.6,5,Consumer
+2023-07-19,West,Office Supplies,456.77,194.18,6,Corporate
+2022-12-06,Central,Office Supplies,968.32,23.14,3,Home Office
+2022-04-02,East,Technology,965.44,118.64,8,Consumer
+2023-01-02,South,Office Supplies,860.36,191.5,1,Corporate
+2023-03-31,South,Furniture,329.73,155.91,6,Home Office
+2023-03-04,Central,Technology,415.84,258.38,4,Home Office
+2023-05-24,South,Furniture,858.58,201.02,1,Consumer
+2022-02-04,East,Furniture,351.08,57.25,7,Consumer
+2022-07-25,Central,Furniture,211.02,30.46,9,Consumer
+2022-03-22,East,Office Supplies,578.96,196.3,4,Corporate
+2023-07-16,Central,Office Supplies,939.35,17.69,4,Consumer
+2023-01-23,Central,Technology,711.23,179.87,6,Home Office
+2022-01-02,West,Technology,591.56,282.67,3,Home Office
+2023-01-25,East,Office Supplies,142.32,176.89,6,Consumer
+2023-07-20,South,Furniture,634.26,122.57,7,Consumer
+2022-04-16,South,Technology,990.55,196.55,3,Home Office
+2023-04-22,East,Office Supplies,183.08,142.89,7,Corporate
+2023-12-04,South,Office Supplies,542.41,168.23,3,Consumer
+2023-02-06,South,Office Supplies,883.5,283.02,2,Consumer
+2023-12-31,East,Furniture,753.73,121.97,4,Home Office
+2023-07-10,Central,Office Supplies,712.16,288.75,8,Consumer
+2022-06-11,East,Office Supplies,717.36,272.55,9,Corporate
+2022-07-21,Central,Office Supplies,391.52,66.78,7,Home Office
+2022-09-27,South,Office Supplies,328.91,30.11,1,Consumer
+2022-09-28,South,Technology,818.89,39.23,3,Home Office
+2023-04-01,South,Technology,819.61,15.28,9,Consumer
+2023-04-07,West,Office Supplies,873.72,37.39,1,Consumer
+2023-12-28,Central,Furniture,917.58,208.07,9,Consumer
+2022-09-09,West,Technology,535.78,30.64,8,Corporate
+2023-12-03,West,Office Supplies,526.44,102.5,1,Corporate
+2022-10-23,East,Technology,808.38,255.01,6,Home Office
+2023-12-26,West,Technology,667.47,16.75,5,Consumer
+2023-12-21,East,Furniture,716.87,246.2,6,Consumer
+2022-12-04,East,Office Supplies,806.0,91.74,5,Corporate
+2022-02-22,West,Office Supplies,895.51,44.27,6,Consumer
+2022-08-05,Central,Furniture,371.1,212.05,5,Corporate
+2022-07-07,Central,Furniture,406.8,192.39,5,Consumer
+2023-01-15,Central,Office Supplies,139.28,264.47,4,Home Office
+2023-05-08,Central,Office Supplies,599.37,223.17,3,Consumer
+2022-02-10,Central,Furniture,84.15,243.01,3,Consumer
+2022-06-06,West,Technology,492.32,91.79,4,Corporate
+2022-01-15,West,Technology,565.51,61.46,9,Consumer
+2022-03-06,South,Furniture,322.21,227.68,2,Consumer
+2023-06-05,Central,Technology,611.29,243.98,9,Corporate
